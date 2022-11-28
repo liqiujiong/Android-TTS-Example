@@ -27,6 +27,12 @@
         android:text="Speak" />
 
     <Button
+        android:id="@+id/speak_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="add Queue" />
+
+    <Button
         android:id="@+id/speak_stop"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
